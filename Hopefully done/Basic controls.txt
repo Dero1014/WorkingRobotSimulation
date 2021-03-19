@@ -1,0 +1,18 @@
+I - open/close inspector
+K - open/close spawner
+M - activate/deactivate move tool
+DEL - delete an object
+
+Left mouse button - select an object
+Right mouse button - Rotate camera and drop down a spawned object
+Scrollwheel - pan camera
+Scrollwheel +/- - zoom
+CTRL + scrollwheel +/- - move camera forward/backward
+ALT - focus on object
+ALT + right mouse button - rotate around the object
+
+Robot controls :
+Press left mouse button on the gripper to move the hand
+Press P while gripper is selected to put a point 
+Opening the console press left mouse button on the white parts of the robot
+
